@@ -1,4 +1,6 @@
-@import '~@britannica/ui/dist/britannica-ui.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* @react-md/material-icons */
 
