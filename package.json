@@ -9,8 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@react-md/icon": "5.1.3",
-    "@react-md/material-icons": "5.1.3",
     "classnames": "2.3.2",
     "next": "^13.0.1",
     "react": "^18.2.0",
