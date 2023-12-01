@@ -5,3 +5,5 @@ on: push
 jobs:
   unit-tests:
     uses: ./.github/workflows/reusable_unit_tests.yml
+  build-tests:
+    uses: ./.github/workflows/reusable_build_tests.yml
